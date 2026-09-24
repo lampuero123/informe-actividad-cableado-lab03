@@ -129,10 +129,6 @@ En la foto se ve que los dos conectores tienen los colores en el mismo orden y e
 
 Aquí el orden de los colores cambia de un extremo al otro: en uno los hilos verdes quedan arriba y los naranjas abajo, y en el otro pasa al revés. Eso es lo que pasa cuando un extremo está en T568A y el otro en T568B, y es lo que hace que sea un cable cruzado (se intercambian los pines 1 y 2 con los pines 3 y 6).
 
-### Cable erroneo
-
-Aquí a proposito se conectaron pines incorretos, lo que ocasiona que el cable no tenga 
-
 ### Keystone
 
 ![image alt](https://github.com/lampuero123/informe-actividad-cableado-lab03/blob/665dfad584b28a1b935efee91ea59424fbf2e3cb/Informe_imagenes/4_keystone.png)
