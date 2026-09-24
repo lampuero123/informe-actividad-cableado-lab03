@@ -6,7 +6,10 @@
 - **Docente:** Richart Escobedo
 - **Laboratorio:** Laboratorio 03 – Cableado Estructurado
 - **Grupo:** [COMPLETAR]
-- **Integrantes:** [COMPLETAR]
+- **Integrantes:**       Tiago Pilco Cerdan 
+                         Santiago Echegaray Cárcamo 
+                         Valentino Pinto Herrera
+                         Luis Ampuero Gonzales
 - **Fecha:** 23 de septiembre de 2026
 
 ---
@@ -15,12 +18,11 @@
 
 **Objetivo general**
 
-Armar y comprobar un enlace básico de red con cable de par trenzado, aplicando los procedimientos del cableado estructurado y las normas de terminación RJ-45.
+Armar y comprobar un enlace de red con cable de par trenzado, aplicando procedimientos de cableado.
 
 **Objetivos específicos**
 
 - Reconocer los componentes que se usan en una instalación de cableado estructurado.
-- Aplicar las normas T568A y T568B para armar un cable directo y uno cruzado.
 - Comprobar la continuidad de los conductores con un tester.
 - Detectar y corregir errores de conexión.
 - Terminar un cable en un Keystone.
@@ -48,22 +50,20 @@ Armar y comprobar un enlace básico de red con cable de par trenzado, aplicando 
 
 ## 4. Fundamento teórico
 
-**Cableado estructurado.** Es un sistema organizado de cables, conectores, puntos de red, patch panels, patch cords, racks y equipos de red. Lo que busca es que la infraestructura esté ordenada, pueda crecer, se pueda administrar y sea fácil de mantener.
+Cableado estructurado es un sistema organizado de cables, conectores, puntos de red, etc. Lo que buscamos es que la infraestructura esté ordenada, que pueda crecer, y tambien que se pueda administrar y sea fácil de mantener.
 
 **Componentes que vimos en el laboratorio:**
 
-- **Cable UTP:** el medio físico, formado por pares de conductores trenzados.
-- **RJ-45:** el conector con el que se termina el cable.
-- **Patch cord:** cable flexible para conectar los dispositivos.
-- **Keystone:** módulo donde se termina un cable de red.
-- **Faceplate:** la placa donde se instala el Keystone.
-- **Patch panel:** donde se organizan las terminaciones del cableado.
-- **Switch:** interconecta los dispositivos de una LAN.
-- **Tester:** comprueba la continuidad y que los conductores lleguen al pin correcto.
+- **Cable UTP:** es el medio físico, formado por pares de conductores trenzados.
+- **RJ-45:** es el conector con el que se termina el cable.
+- **Patch cord:** es un cable flexible para conectar los dispositivos.
+- **Keystone:** es un módulo donde se termina un cable de red.
+- **Faceplate:** es la placa donde se instala el Keystone.
+- **Patch panel:** es donde se organizan las terminaciones del cableado.
+- **Switch:** es el que interconecta los dispositivos de una LAN.
+- **Tester:** es el que comprueba la continuidad y que los conductores lleguen al pin correcto.
 
-**Cable UTP.** UTP significa *Unshielded Twisted Pair*, es decir, par trenzado no blindado. Trae cuatro pares: blanco/naranja–naranja, blanco/verde–verde, blanco/azul–azul y blanco/marrón–marrón. Los pares van trenzados para reducir las interferencias electromagnéticas, la diafonía y el ruido.
-
-Sobre las categorías: el Cat 5e llega a 1 Gb/s en condiciones apropiadas, el Cat 6 tiene mejor comportamiento frente a interferencias y el Cat 6A está diseñado para 10 Gb/s hasta 100 m. La velocidad real también depende de la longitud, los componentes, la instalación y los equipos.
+**Cable UTP.** Trae cuatro pares: blanco/naranja–naranja, blanco/verde–verde, blanco/azul–azul y blanco/marrón–marrón. Los pares van trenzados.
 
 **Normas T568A y T568B.** Definen el orden de los ocho conductores dentro del RJ-45:
 
@@ -78,7 +78,7 @@ Sobre las categorías: el Cat 5e llega a 1 Gb/s en condiciones apropiadas, el Ca
 | 7 | Blanco/Marrón | Blanco/Marrón |
 | 8 | Marrón | Marrón |
 
-**Cable directo y cable cruzado.** El directo usa la misma norma en los dos extremos (T568B–T568B o T568A–T568A). El cruzado usa una norma distinta en cada extremo (T568A–T568B). Hoy muchos equipos tienen Auto-MDI/MDI-X y detectan solos el tipo de conexión, así que con un cable directo basta para casi todo.
+**Cable directo y cable cruzado.** El directo usa la misma norma en los dos extremos T568B–T568B o T568A–T568A. El cruzado usa una norma distinta en cada extremo (T568A–T568B).
 
 ---
 
