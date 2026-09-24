@@ -132,6 +132,7 @@ ping <IP_DEL_OTRO_EQUIPO>     # conectividad con otro equipo
 
 ### Cable directo
 
+![image alt](https://github.com/lampuero123/informe-actividad-cableado-lab03/blob/652c3a0f5092b36874960267baa25becf9042655/Informe_imagenes/1_directo.png)
 ![Figura 1. Cable directo](images/1_directo.png)
 
 En la foto se ve que los dos conectores tienen los colores en el mismo orden y en la misma posición (naranja, azul y verde). Como ambos extremos siguen la misma norma, es un cable directo.
