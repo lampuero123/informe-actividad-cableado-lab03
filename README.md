@@ -7,9 +7,13 @@
 - **Laboratorio:** Laboratorio 03 – Cableado Estructurado
 - **Grupo:** [COMPLETAR]
 - **Integrantes:**       -Tiago Pilco Cerdan 
+
                          -Santiago Echegaray Cárcamo 
+                         
                          -Valentino Pinto Herrera
+                         
                          -Luis Ampuero Gonzales
+                         
 - **Fecha:** 23 de septiembre de 2026
 
 ---
