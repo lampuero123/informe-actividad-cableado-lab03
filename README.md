@@ -150,16 +150,6 @@ Es un módulo Keystone RJ-45 azul, de la marca Dixon, con sus 8 contactos dorado
 
 Resultado general: **cable aprobado**. Los ocho pines se encendieron en orden y en correspondencia, osea a la vez.
 
-### Prueba de conectividad
-
-| Parámetro | Resultado |
-|-----------|-----------|
-| Estado del enlace | Activo |
-| Resultado del ping | Exitoso |
-| Pérdida de paquetes | Sin pérdida |
-
----
-
 ## 7. Evidencias
 
 - **Evidencia 1:** materiales utilizados.
