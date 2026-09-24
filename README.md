@@ -147,7 +147,7 @@ Aquí a proposito se conectaron pines incorretos, lo que ocasiona que el cable n
 
 ### Keystone
 
-![image alt]([https://github.com/lampuero123/informe-actividad-cableado-lab03/blob/de66b84d08ddf99e23eb360ac8ca596b1a49ed12/Informe_imagenes/2_cruzado.png](https://github.com/lampuero123/informe-actividad-cableado-lab03/blob/de66b84d08ddf99e23eb360ac8ca596b1a49ed12/Informe_imagenes/4_keystone.png))
+![image alt](https://github.com/lampuero123/informe-actividad-cableado-lab03/blob/665dfad584b28a1b935efee91ea59424fbf2e3cb/Informe_imagenes/4_keystone.png)
 
 Es un módulo Keystone RJ-45 azul, de la marca Dixon, con sus 8 contactos dorados en el puerto frontal. Los conductores se ponchan en la parte de atrás siguiendo los colores del fabricante, y después el módulo se encaja en el faceplate.
 
