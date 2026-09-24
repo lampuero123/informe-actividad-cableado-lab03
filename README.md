@@ -133,19 +133,21 @@ ping <IP_DEL_OTRO_EQUIPO>     # conectividad con otro equipo
 ### Cable directo
 
 ![image alt](https://github.com/lampuero123/informe-actividad-cableado-lab03/blob/652c3a0f5092b36874960267baa25becf9042655/Informe_imagenes/1_directo.png)
-![Figura 1. Cable directo](images/1_directo.png)
 
 En la foto se ve que los dos conectores tienen los colores en el mismo orden y en la misma posición (naranja, azul y verde). Como ambos extremos siguen la misma norma, es un cable directo.
 
 ### Cable cruzado
-
-![Figura 2. Cable cruzado](images/2_cruzado.png)
+![image alt](https://github.com/lampuero123/informe-actividad-cableado-lab03/blob/de66b84d08ddf99e23eb360ac8ca596b1a49ed12/Informe_imagenes/2_cruzado.png)
 
 Aquí el orden de los colores cambia de un extremo al otro: en uno los hilos verdes quedan arriba y los naranjas abajo, y en el otro pasa al revés. Eso es lo que pasa cuando un extremo está en T568A y el otro en T568B, y es lo que hace que sea un cable cruzado (se intercambian los pines 1 y 2 con los pines 3 y 6).
 
+### Cable erroneo
+
+Aquí a proposito se conectaron pines incorretos, lo que ocasiona que el cable no tenga 
+
 ### Keystone
 
-![Figura 4. Keystone](images/4_keystone.png)
+![image alt]([https://github.com/lampuero123/informe-actividad-cableado-lab03/blob/de66b84d08ddf99e23eb360ac8ca596b1a49ed12/Informe_imagenes/2_cruzado.png](https://github.com/lampuero123/informe-actividad-cableado-lab03/blob/de66b84d08ddf99e23eb360ac8ca596b1a49ed12/Informe_imagenes/4_keystone.png))
 
 Es un módulo Keystone RJ-45 azul, de la marca Dixon, con sus 8 contactos dorados en el puerto frontal. Los conductores se ponchan en la parte de atrás siguiendo los colores del fabricante, y después el módulo se encaja en el faceplate.
 
@@ -194,8 +196,8 @@ Resultado general: **cable aprobado**. Los ocho pines se encendieron en orden y 
 
 | Elemento | Resultado |
 |----------|-----------|
-| Falla detectada | A simple vista, este cable amarillo no es un cable Ethernet válido: un extremo tiene un conector más angosto, parecido a un RJ11/RJ12 de teléfono, y el otro tiene el conector deteriorado, con la pestaña de sujeción dañada. [CONFIRMAR] |
-| Pin afectado | [COMPLETAR según el tester] |
+| Falla detectada | El cable amarillo no es un cable Ethernet válido: A propósito algunos conductores quedaron conectados en pines que no les correspondían 
+| Pin afectado | Todos |
 | Posible causa | Conector de tipo equivocado, conector dañado o mal crimpado, o un cable que no es para red. |
 | Solución aplicada | Cortar los extremos, volver a poner conectores RJ-45 con T568B y probar otra vez. |
 
