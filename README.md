@@ -107,7 +107,7 @@ Es el mismo procedimiento, pero un extremo se arma con T568A y el otro con T568B
 
 **Verificación**
 
-Primero revisamos a simple vista: los ocho conductores presentes, el orden de los colores, que llegaran hasta la punta del conector y que la cubierta estuviera sujeta. Después conectamos cada extremo al tester y observamos la secuencia de luces. En un cable directo bien hecho debe verse 1→1, 2→2, hasta 8→8.
+Primero revisamos si todo esta bien. Después conectamos cada extremo al tester y observamos la secuencia de luces. En un cable directo bien hecho debe verse a la par hasta que acabe.
 
 **Terminación en Keystone**
 
