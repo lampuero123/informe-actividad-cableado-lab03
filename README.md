@@ -1,18 +1,14 @@
 # Informe de Laboratorio 03: Cableado Estructurado
 
-> **Nota:** las marcas **[COMPLETAR]** indican datos que solo tú tienes (nombres, resultados del tester, capturas de red). Búscalas con Ctrl+F antes de entregar.
-
----
 
 ## 1. Portada
 
-| Campo | Información |
 |-------|-------------|
 | **Curso** | Redes y Comunicación de Datos |
 | **Docente** | Richart Escobedo |
 | **Laboratorio** | Laboratorio 03: Cableado Estructurado |
-| **Grupo / Tema** | **[COMPLETAR]** |
-| **Integrantes** | **[COMPLETAR]** |
+| **Integrantes** | **Luis Ampuero, Tiago Pilco, Santiago Echegaray** |
+| **Integrantes** | **Luis Ampuero, Tiago Pilco, Santiago Echegaray** |
 | **Fecha** | 23 de septiembre de 2026 |
 
 ---
@@ -21,7 +17,7 @@
 
 ### 2.1 Objetivo general
 
-Implementar y comprobar un enlace básico de red mediante cableado de par trenzado, aplicando procedimientos de cableado estructurado y estándares de terminación RJ-45.
+Implementar y comprobar tipos de cableados.
 
 ### 2.2 Objetivos específicos
 
