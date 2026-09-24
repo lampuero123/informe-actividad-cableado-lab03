@@ -6,7 +6,9 @@
 - **Docente:** Richart Escobedo
 - **Laboratorio:** Laboratorio 03 – Cableado Estructurado
 - **Grupo:** [COMPLETAR]
-- **Integrantes:**       -Tiago Pilco Cerdan 
+- **Integrantes:**       
+
+                         -Tiago Pilco Cerdan 
 
                          -Santiago Echegaray Cárcamo 
                          
