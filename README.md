@@ -115,19 +115,7 @@ Primero revisamos si todo esta bien. Después conectamos cada extremo al tester 
 2. Identificamos los pares y seguimos el esquema de colores que indica el fabricante del Keystone.
 3. Colocamos cada conductor en su posición y lo ponchamos con la herramienta tipo 110, que también corta los sobrantes.
 4. Instalamos el Keystone en el faceplate.
-
-**Punto de red y prueba de conectividad**
-
-El punto de red se arma así: PC → patch cord → Keystone → cable UTP → patch panel → patch cord → switch. Para comprobar que funcionaba usamos estos comandos en Linux:
-
-```bash
-ip addr                       # interfaces y dirección IP
-ip link                       # estado del enlace
-ping <IP_DEL_OTRO_EQUIPO>     # conectividad con otro equipo
-```
-
----
-
+ 
 ## 6. Resultados
 
 ### Cable directo
@@ -192,7 +180,7 @@ Resultado general: **cable aprobado**. Los ocho pines se encendieron en orden y 
 
 ## 8. Diagnóstico de fallas
 
-![Figura 3. Cable con falla](images/3_erroneo.png)
+![image alt](https://github.com/lampuero123/informe-actividad-cableado-lab03/blob/9abfdd3c0b59d7a86033daf608dff690f7b3cce3/Informe_imagenes/3_erroneo.png)
 
 | Elemento | Resultado |
 |----------|-----------|
