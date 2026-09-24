@@ -183,7 +183,7 @@ Resultado general: **cable aprobado**. Los ocho pines se encendieron en orden y 
 - **Evidencia 3:** conductores ordenados según T568B.
 - **Evidencia 4:** conector RJ-45 terminado. Ver Figuras 1 y 2.
 - **Evidencia 5:** prueba con el tester. 
-- **Evidencia 6:** punto de red implementado. Ver Figura 4 (Keystone). [COMPLETAR foto del punto de red completo]
+- **Evidencia 6:** punto de red implementado. Ver Figura 4 (Keystone).
 - **Evidencia 7:** 
 - **Evidencia 8:** 
 - **Evidencia 9:** diagnóstico y corrección de una falla. Ver Figura 3 y el apartado 8.
