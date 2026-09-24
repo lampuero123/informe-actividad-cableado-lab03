@@ -5,7 +5,6 @@
 - **Curso:** Redes y Comunicación de Datos
 - **Docente:** Richart Escobedo
 - **Laboratorio:** Laboratorio 03 – Cableado Estructurado
-- **Grupo:** [COMPLETAR]
 - **Integrantes:**       
 
                          -Tiago Pilco Cerdan 
@@ -153,43 +152,37 @@ Es un módulo Keystone RJ-45 azul, de la marca Dixon, con sus 8 contactos dorado
 
 | Pin | Esperado | Resultado |
 |:---:|:--------:|-----------|
-| 1 | 1 → 1 | [COMPLETAR] |
-| 2 | 2 → 2 | [COMPLETAR] |
-| 3 | 3 → 3 | [COMPLETAR] |
-| 4 | 4 → 4 | [COMPLETAR] |
-| 5 | 5 → 5 | [COMPLETAR] |
-| 6 | 6 → 6 | [COMPLETAR] |
-| 7 | 7 → 7 | [COMPLETAR] |
-| 8 | 8 → 8 | [COMPLETAR] |
+| 1 | 1 → 1 | [Correcto] |
+| 2 | 2 → 2 | [Correcto] |
+| 3 | 3 → 3 | [Correcto] |
+| 4 | 4 → 4 | [Correcto] |
+| 5 | 5 → 5 | [Correcto] |
+| 6 | 6 → 6 | [Correcto] |
+| 7 | 7 → 7 | [Correcto] |
+| 8 | 8 → 8 | [Correcto] |
 
-Resultado general: cable aprobado / rechazado [COMPLETAR]
+Resultado general: **cable aprobado**. Los ocho pines se encendieron en orden y en correspondencia, osea a la vez.
 
 ### Prueba de conectividad
 
 | Parámetro | Resultado |
 |-----------|-----------|
-| Equipo 1 | [COMPLETAR] |
-| Equipo 2 | [COMPLETAR] |
-| Interfaz de red | [COMPLETAR] |
-| Dirección IP | [COMPLETAR] |
-| Máscara | [COMPLETAR] |
-| Gateway | [COMPLETAR] |
-| Estado del enlace | [COMPLETAR] |
-| Resultado del ping | [COMPLETAR] |
-| Pérdida de paquetes | [COMPLETAR] |
+| Estado del enlace | Activo |
+| Resultado del ping | Exitoso |
+| Pérdida de paquetes | Sin pérdida |
 
 ---
 
 ## 7. Evidencias
 
-- **Evidencia 1:** materiales utilizados. [COMPLETAR]
-- **Evidencia 2:** cable UTP antes de prepararlo. [COMPLETAR]
-- **Evidencia 3:** conductores ordenados según T568B. [COMPLETAR]
+- **Evidencia 1:** materiales utilizados.
+- **Evidencia 2:** cable UTP antes de prepararlo.
+- **Evidencia 3:** conductores ordenados según T568B.
 - **Evidencia 4:** conector RJ-45 terminado. Ver Figuras 1 y 2.
-- **Evidencia 5:** prueba con el tester. [COMPLETAR]
+- **Evidencia 5:** prueba con el tester. 
 - **Evidencia 6:** punto de red implementado. Ver Figura 4 (Keystone). [COMPLETAR foto del punto de red completo]
-- **Evidencia 7:** captura de `ip addr`. [COMPLETAR]
-- **Evidencia 8:** captura de `ping <IP>`. [COMPLETAR]
+- **Evidencia 7:** 
+- **Evidencia 8:** 
 - **Evidencia 9:** diagnóstico y corrección de una falla. Ver Figura 3 y el apartado 8.
 
 ---
@@ -204,7 +197,6 @@ Resultado general: cable aprobado / rechazado [COMPLETAR]
 | Pin afectado | [COMPLETAR según el tester] |
 | Posible causa | Conector de tipo equivocado, conector dañado o mal crimpado, o un cable que no es para red. |
 | Solución aplicada | Cortar los extremos, volver a poner conectores RJ-45 con T568B y probar otra vez. |
-| Resultado posterior | [COMPLETAR] |
 
 ---
 
